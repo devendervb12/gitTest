@@ -1,0 +1,22 @@
+{
+  "name": "git3",
+  "version": "1.0.0",
+  "description": "git testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendervb12/git3.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "devender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devendervb12/git3/issues"
+  },
+  "homepage": "https://github.com/devendervb12/git3#readme"
+}
